@@ -9,5 +9,5 @@ A python code is attached to read the file and generate a 2D heat plot.
 Laughlin.f90 will take 'N' (number of particles), 'm' in the filling fraction (1/m) of the state (eg. m=3 for a ff 1/3),
 'trial' to keep track of number of trials and also because Fortran gives error when it tries to generate files with same caption.
 
-
+angular_plot.py will take N, m and trial as input and generate the plot.
 
