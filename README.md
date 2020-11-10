@@ -1,5 +1,5 @@
 # DensityLaughlin
-This fortran code computes the density of particles in fractional quantum hall state over a circular system, defined by Laughlin state of given filling factor. Filling factor 1 gives us integer qH (quantum Hall) state and its density, where as filling factor 1/3 gives us the density of fqH state. 
+This fortran code computes the density of particles in fractional quantum hall state over a circular system, defined by Laughlin state of given filling factor. Filling factor 1 gives us integer qH (quantum Hall) state and its density, whereas filling factor 1/3 gives us the density of fqH state. 
 
 'additionalpiece' and 'ap1' are just excitations in the state. ap1 is when a quasi-hole is placed at some position.
 
